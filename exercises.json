@@ -1,0 +1,51 @@
+{
+  "exercises": [
+    {
+      "id": "consonant-buddies",
+      "title": "Consonant Buddies",
+      "goal": "Work on the forward/lighter placement of the consonant buddies, then implement into the passage.",
+      "instructions": [
+        "Say the unvoiced sound, then its voiced buddy (e.g., /p/ ➜ /b/), keeping placement light and forward.",
+        "Add the example word (e.g., \"peanut ➜ butter\").",
+        "Blend the pair into short phrases; keep airflow steady.",
+        "Read the passage at an easy, bouncy tempo with crisp onsets."
+      ],
+      "pairs": [
+        { "unvoiced": "/p/",  "unvoicedWord": "peanut",       "voiced": "/b/",  "voicedWord": "butter" },
+        { "unvoiced": "/t/",  "unvoicedWord": "tiger",        "voiced": "/d/",  "voicedWord": "drab"   },
+        { "unvoiced": "/s/",  "unvoicedWord": "silly",        "voiced": "/z/",  "voicedWord": "zebra"  },
+        { "unvoiced": "/ʃ/",  "unvoicedWord": "shirt",        "voiced": "/ʒ/",  "voicedWord": "zhuzhed" },
+        { "unvoiced": "/tʃ/", "unvoicedWord": "cherry",       "voiced": "/dʒ/", "voicedWord": "judge"  },
+        { "unvoiced": "/k/",  "unvoicedWord": "kangaroo",     "voiced": "/g/",  "voicedWord": "good"   },
+        { "unvoiced": "/f/",  "unvoicedWord": "funky stuff",  "voiced": "/v/",  "voicedWord": "vest sleeves" },
+        { "unvoiced": "/θ/",  "unvoicedWord": "thin teeth",   "voiced": "/ð/",  "voicedWord": "that with" }
+      ],
+      "voicedPractice": [
+        { "phoneme": "/l/", "word": "loves" },
+        { "phoneme": "/r/", "word": "really" },
+        { "phoneme": "/w/", "word": "when" },
+        { "phoneme": "/n/", "word": "never" }
+      ],
+      "passage": "The silly zebra and drab tiger are brought before Judge Cherry, the Kangaroo. The good judge is busy, eating his favorite peanut butter sandwich.\n\nHe never misses his sandwiches. He also really loves his favorite zealously zhuzhed shirt sleeves and funky vest. The silly zebra and drab tiger nod when they see the shirt sleeves, and cry aloud, \"That's thin\"! Judge Cherry tells them to \"shush\" and take themselves back outside!"
+    }
+
+    /* --- TEMPLATE (copy this object to add more exercises) ---
+    ,{
+      "id": "your-id-here",
+      "title": "Exercise Title",
+      "goal": "What this exercise trains (e.g., forward resonance on consonant onsets).",
+      "instructions": [
+        "Step 1 instruction...",
+        "Step 2 instruction..."
+      ],
+      "pairs": [
+        { "unvoiced": "/s/", "unvoicedWord": "see", "voiced": "/z/", "voicedWord": "zoo" }
+      ],
+      "voicedPractice": [
+        { "phoneme": "/l/", "word": "love" }
+      ],
+      "passage": "Optional practice passage text..."
+    }
+    --- END TEMPLATE --- */
+  ]
+}
