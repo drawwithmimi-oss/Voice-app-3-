@@ -1,0 +1,78 @@
+{
+  "readings": [
+    {
+      "id": "rainbow",
+      "title": "Rainbow Passage",
+      "description": "Classic voice training text",
+      "content": "When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it. When a person looks for something beyond their reach, their friends say they are looking for the pot of gold at the end of the rainbow.\n\nThroughout the centuries people have explained the rainbow in various ways. Some have accepted it as a miracle without physical explanation. Others have tried to explain the phenomenon physically. Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.\n\nMany complicated ideas about the rainbow have been formed. The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. The actual primary rainbow observed is said to be the effect of superimposition of a number of bows. If the red of the second bow falls upon the green of the first, the result is a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."
+    },
+    {
+      "id": "quick",
+      "title": "Quick Practice Sentences",
+      "description": "Short sentences for warm‑up",
+      "content": "The early morning brings new opportunities.\n\nShe speaks with confidence and clarity.\n\nMy voice flows naturally and freely.\n\nPractice makes progress, not perfection.\n\nEach day I grow more comfortable with my voice.\n\nSpeaking authentically is my goal.\n\nThe melody of speech comes from within.\n\nI embrace my unique vocal qualities."
+    },
+
+    /* ---- Optional: the monologues you shared (kept tidy) ---- */
+    {
+      "id": "bouncy-lady-mary",
+      "title": "Bouncy Voice — Lady Mary (The Admirable Crichton)",
+      "description": "Energetic, buoyant pacing",
+      "content": "I sighted a herd near Penguin’s Creek, but had to creep round Silver Lake to get to windward of them. However, they spotted me and then the fun began. There was nothing for it but to try and run them down, so I singled out a fat buck and away we went down the shore of the lake, up the valley of rolling stones; he doubled into Brawling River and took to the water, but I swam after him; the river is only half a mile broad there, but it runs strong. He went spinning down the rapids, down I went in pursuit; he clambered ashore, I clambered ashore; away we tore helter-skelter up the hill and down again. I lost him in the marshes, got on his track again near Bread Fruit Wood, and brought him down with an arrow in Firefly Grove."
+    },
+    {
+      "id": "bouncy-lucy",
+      "title": "Bouncy Voice — Lucy Van Pelt",
+      "description": "Playful and animated",
+      "content": "Do you know what I intend? I intend to be a queen. When I grow up I’m going to be the biggest queen there ever was, and I’ll live in a big palace and when I go out in my coach, all the people will wave and I will shout at them, and... and... in the summertime I will go to my summer palace and I’ll wear my crown in swimming and everything, and all the people will cheer and I will shout at them... \n\nWhat do you mean I can’t be queen? Nobody should be kept from being a queen if she wants to be one. It’s usually just a matter of knowing the right people... well... if I can’t be a queen, then I’ll be very rich then I will buy myself a queendom. Yes, I will buy myself a queendom and then I’ll kick out the old queen and take over the whole operation myself. I will be head queen."
+    },
+    {
+      "id": "tempo-sally",
+      "title": "Tempo Variance — Sally Brown",
+      "description": "Shift speeds within ideas",
+      "content": "A \"C\"? A \"C\"? I got a \"C\" on my coathanger sculpture? How could anyone get a \"C\" in coathanger sculpture? May I ask a question? Was I judged on the piece of sculpture itself? If so, is it not true that time alone can judge a work of art?\n\nOr was I judged on my talent? If so, is it fair that I be judged on a part of my life over which I have no control? If I was judged on my effort, then I was judged unfairly, for I tried as hard as I could! Was I judged on what I had learned about this project? If so, then were not you, my teacher, also being judged on your ability to transmit your knowledge to me? Are you willing to share my \"C\"?\n\nPerhaps I was being judged on the quality of coathanger itself out of which my creation was made... now is this not also unfair? Am I to be judged by the quality of coat hangers that are used by the dry cleaning establishment that returns our garments? Is that not the responsibility of my parents? Should they not share my \"C\"?"
+    },
+    {
+      "id": "tempo-beatrix",
+      "title": "Tempo Variance — Beatrix (Promedy)",
+      "description": "Alternating urgency and calm",
+      "content": "Young women need the Prom. It's a rite of passage as sacred as getting your driver’s license or buying your first bra. There are only a few things in life that are guaranteed to be glorious and memorable and sparkling with gowns and cummerbunds. Prom is the quintessential teenage experience.\n\nThink of the unlucky grown-ups and the elderly who lament the day they decided not to go to the Prom. It is a key ingredient to a happy and meaningful life. Prom is short for Promenade, a slow, gentle walk through a shady glen, and this beloved ceremony symbolizes our journey from the shadows of adolescence to the bright sunshine of the adult world with all its freedoms.\n\nAnd it may be the only chance I’ll ever have to dance with someone. Maybe I’ll never have someone get down on a knee and offer me a diamond ring. Maybe I’ll never walk down the aisle with a smug look of bridal triumph. But it is my right, and the right of every book‑wormy, soon‑to‑be librarian to have one night of Cinderella magic. Even if we have to go with our cousin, or our gay best friend from tap class, we will have a Prom. And you will help me."
+    },
+    {
+      "id": "vowel-sister-winnie",
+      "title": "Vowel Elongation — Sister Winnie (Folk)",
+      "description": "Stretch vowels, keep clarity",
+      "content": "Oh, it was fine. I mean: not fine fine—everything's... I've been at the hospital, Kayleigh. I don't know if Stephen said. Getting some tests done. I've got angina. Which for some reason I keep calling: vagina. It doesn't help. It means, Kayleigh, no more fun. No more drinking, no more getting worked up, no more smoking, apparently—I'm ignoring that, obviously, but. I'm getting pills, blood‑thinners. They've showered me with leaflets.\n\nThe consultant basically said I could pop my clogs at any moment. Added to which: he was a very pale man, heavy‑breather—I did wonder briefly if he might actually be Death, come to get me. But then one of the other doctors popped in, called him Nigel, mentioned something about badminton so I thought: probably not. It's hard to imagine the Grim Reaper with a shuttlecock.\n\nBut that's not the worst bit, Stephen. Picture this: I've been through all the sitting, the waiting, been wired up to a monitor, jogged, et cetera, I've been jiggled about, prodded, pressed with some very chilly instruments, got released, finally, back into the world, with my clogged‑up arteries and uncertain future; I'm in the lift going down, who should get into the lift with me on floor number seven? I'll give you a clue: he's got a bloody hernia. And did he ask how I was? No. He spotted me, took a deep breath, launched into another two‑hour rant about what a rough deal it is—complaining, whining. I mean, I know it's not nice to have a bit of your stomach lining poking out, I get it, I do, but really—how much more is there to say?"
+    },
+    {
+      "id": "vowel-sophia",
+      "title": "Vowel Elongation — Sophia (Girlboss)",
+      "description": "Sustain vowels without tension",
+      "content": "Adulthood is where dreams go to die. Grow up, get a job, become a drone, that's it. Then it's over. Society just wants to put everyone in a box. Well guess what society? There is no box. 'Cause I mean, if I thought the rest of my life would be spent as a mindless cog in a machine, I swear I'd just get a tattoo across my face that says: \"Really man?\"\n\nI just need to figure out a way of growing up without becoming a boring adult. You probably think I'm some spoiled brat who's never had it hard 'cause I didn't have to walk a mile to school. But here's the thing, I tried college for a year. Total bust. Everything you wanna learn, you could just look up online. I know how to open champagne with a sword."
+    },
+    {
+      "id": "diction-elaine",
+      "title": "Diction & Articulation — Elaine (The Graduate)",
+      "description": "Crisp consonants, steady air",
+      "content": "Well nothing's perfect, Benjamin. I wish my mother didn't drink so much. I wish I'd never fallen out of that tree and broken my thumb because it so affects my fingering I'll probably never play the violin as well as I'd love to—but that's about it for the bullshit, Benjamin. It's only bullshit if you let it pile up. Heaven's in the details. Someone said that. I think Robert Frost said that.\n\nI was in this diner with my roommate, Diane? And this guy came along with a goat on a rope, and it turns out the reason he's got a little goat on a rope is that he was thrown out the day before for bringing in his dog? But the point is that Diane had stood up to leave when she saw the man walk in and she sat straight down again and said, “Well if there's a goat I think I'll have dessert.” And that's why I love Diane, because if you think like that you not only notice more little goats, you get more dessert."
+    },
+    {
+      "id": "diction-gwendolen",
+      "title": "Diction & Articulation — Gwendolen (The Importance of Being Earnest)",
+      "description": "Elegant, precise articulation",
+      "content": "Oh! It is strange he never mentioned to me that he had a ward. How secretive of him! He grows more interesting hourly. I am not sure, however, that the news inspires me with feelings of unmixed delight. I am very fond of you, Cecily; I have liked you ever since I met you! But I am bound to state that now that I know that you are Mr. Worthing's ward, I cannot help expressing a wish you were—well, just a little older than you seem to be—and not quite so very alluring in appearance.\n\nIn fact, if I may speak candidly—[...] Well, to speak with perfect candour, Cecily, I wish that you were fully forty‑two, and more than usually plain for your age. Ernest has a strong upright nature. He is the very soul of truth and honour. Disloyalty would be as impossible to him as deception. But even men of the noblest possible moral character are extremely susceptible to the influence of the physical charms of others. Modern, no less than Ancient History, supplies us with many most painful examples of what I refer to. If it were not so, indeed, History would be quite unreadable."
+    },
+    {
+      "id": "syllable-dont-look-at-me",
+      "title": "Syllable Separation — Don’t Look At Me (J. Arnone)",
+      "description": "Exaggerate syllables cleanly",
+      "content": "Don't look at me. You. Eh, eh, eh... when I address you, do not look at me. No eye contact. Is that understood? Look away. (beat) Okay, look at me now. (snaps her fingers) I told you not to look at me. Even if I tell you to look at me, do not look at me. Understood? Good, good darling.\n\nOh! I have something in my eye, can you help me? (pointing) Looking, looking, looking! NO looking under all circumstances. You must raise up that attention span of yours. A fish could retain more, darling. That is true. I have read it. Less attention span than a fish. Do not let that be you, darling."
+    },
+    {
+      "id": "syllable-eliza",
+      "title": "Syllable Separation — Eliza Doolittle (My Fair Lady)",
+      "description": "Break words gently without choppiness",
+      "content": "My aunt died of influenza, so they said. But it's my belief they done the old woman in. Yes, Lord love you! Why should she die of influenza when she came through diphtheria right enough the year before? Fairly blue with it she was. They all thought she was dead. But my father, he kept ladling gin down her throat. Then she came to so sudden that she bit the bowl off the spoon.\n\nNow, what would you call a woman with that strength in her have to die of influenza, and what became of her new straw hat that should have come to me? Somebody pinched it, and what I say is, them that pinched it, done her in. Them she lived with would have killed her for a hat‑pin, let alone a hat. And as for father ladling the gin down her throat, it wouldn't have killed her. Not her. Gin was as mother's milk to her. Besides, he's poured so much down his own throat that he knew the good of it."
+    }
+  ]
+}
